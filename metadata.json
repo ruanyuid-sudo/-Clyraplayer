@@ -1,0 +1,6 @@
+{
+  "name": "Clyraplayer",
+  "description": "Cloudflare Workers premium video player panel and script builder with multi-resolution support, customized players, and script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
